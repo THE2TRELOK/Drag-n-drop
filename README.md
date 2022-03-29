@@ -1,5 +1,5 @@
--[]Objektu vilk?anas nodro?in??ana
- -[]Objektu novieto?anas (pareizi/nepareizi) nodro?in??ana
- -[]Objektu rot?cijas iesp?ju integr??ana
- -[]Objektu izm?ra mai?as iesp?ju integr??ana
- -[]Ieviesta jauna aina un izv?lne
+-[ ]Objektu vilksanas nodrosinasana
+ -[ ]Objektu novietosanas (pareizi/nepareizi) nodrosinasana
+ -[ ]Objektu rotacijas iespeju integresana
+ -[ ]Objektu izmera mainas iespeju integresana
+ -[ ]Ieviesta jauna aina un izvelne
