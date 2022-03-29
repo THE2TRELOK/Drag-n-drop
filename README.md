@@ -1,2 +1,5 @@
-# Drag-n-drop
-Drag n drop
+-[]Objektu vilk?anas nodro?in??ana
+ -[]Objektu novieto?anas (pareizi/nepareizi) nodro?in??ana
+ -[]Objektu rot?cijas iesp?ju integr??ana
+ -[]Objektu izm?ra mai?as iesp?ju integr??ana
+ -[]Ieviesta jauna aina un izv?lne
