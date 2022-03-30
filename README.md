@@ -4,9 +4,10 @@ Unity 2d bernu spele, kura ir japarvieto masinas noteiktaja vieta.
 
 ## Uzdevumu saraksts
 
-- [] Spēles ainas iekārtošana
-- [] Objektu vilkšanas nodrošināšana
-- [] Objektu novietošanas (pareizi/nepareizi) nodrošināšana
-- [] Objektu rotācijas iespēju integrēšana
-- [] Objektu izmēra maiņas iespēju integrēšana
-- [] Ieviesta jauna aina un izvēlne
+- [x] Spēles ainas iekārtošana 
+- [x] Objektu vilkšanas nodrošināšana
+- [x] Objektu novietošanas (pareizi/nepareizi) nodrošināšana
+- [x] Objektu rotācijas iespēju integrēšana
+- [x] Objektu izmēra maiņas iespēju integrēšana
+- [x] Ieviesta jauna aina un izvēlne
+- [ ] skanas
